@@ -1,7 +1,0 @@
-behave==1.2.7.dev2
-colorama==0.4.6
-cucumber-tag-expressions==4.1.0
-parse==1.19.0
-parse-type==0.6.0
-six==1.16.0
-win-unicode-console==0.5
